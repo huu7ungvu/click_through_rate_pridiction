@@ -1,0 +1,4 @@
+# ignore files
+test.csv
+train_cut.csv
+train.csv
