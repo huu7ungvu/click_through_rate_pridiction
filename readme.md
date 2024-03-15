@@ -45,5 +45,5 @@ Nếu bạn muốn đóng góp vào dự án này, vui lòng tạo một pull re
 
 ## Liên Hệ
 
-Nếu bạn có bất kỳ câu hỏi hoặc góp ý nào, vui lòng liên hệ với chúng tôi qua email: example@example.com.
+Nếu bạn có bất kỳ câu hỏi hoặc góp ý nào, vui lòng liên hệ với chúng tôi qua email: vutungprime01@gmail.com.
 
