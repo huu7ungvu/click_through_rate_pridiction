@@ -30,8 +30,8 @@
 1. **Báo Cáo:** Mở file báo cáo bằng trình duyệt hoặc bất kỳ trình soạn thảo văn bản nào.
 2. **Source Code:** Mở thư mục chứa mã nguồn bằng trình biên soạn mã nguồn như Visual Studio Code hoặc PyCharm.
 3. **Model Được Training:** Nếu cần, bạn có thể sử dụng các mô hình đã được huấn luyện trong các ứng dụng Python.
-
 4. **Dataset:** Tải tập dữ liệu xuống máy tính và giải nén (nếu cần).
+
 ## Ý Tưởng Dựa Trên
 
 Dự án được thiết kế dựa trên các ý tưởng từ hai bài viết sau:
